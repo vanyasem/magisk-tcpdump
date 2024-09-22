@@ -1,0 +1,6 @@
+id=tcpdump_static_armv7h
+name=tcpdump binary (armv7h)
+version=4.99.5
+versionCode=4099005
+author=vanyasem
+description=Provides static tcpdump binary for armv7h
