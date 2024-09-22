@@ -4,3 +4,4 @@ version=4.99.5
 versionCode=4099005
 author=vanyasem
 description=Provides static tcpdump binary for armv7h
+updateJson=https://raw.githubusercontent.com/vanyasem/magisk-tcpdump/refs/heads/main/update-armv7h.json

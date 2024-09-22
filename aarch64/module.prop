@@ -4,3 +4,4 @@ version=4.99.5
 versionCode=4099005
 author=vanyasem
 description=Provides static tcpdump binary for aarch64
+updateJson=https://raw.githubusercontent.com/vanyasem/magisk-tcpdump/refs/heads/main/update-aarch64.json
